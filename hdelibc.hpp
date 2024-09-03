@@ -1,9 +1,11 @@
 // 
-// Homo Deus 
+// Server Library 
 // 03/09/2024
 //
-// Homo Deus C++ Library
+// Server C++ Library
 // hdelibc.hpp
+// Credits to Eric O Meehan
+// https://www.youtube.com/@eom-dev
 //
 // Toby King
 
@@ -11,5 +13,7 @@
 #define HDELIBC_H
 
 #include <stdio.h>
+
+#include "Networking/hdelibc_networking.hpp"
 
 #endif // HDELIBC_H
