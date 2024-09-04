@@ -4,5 +4,6 @@
 #include <stdio.h>
 
 #include "Sockets/hdelibc-sockets.hpp"
+#include "Server/hdelibc-server.hpp"
 
 #endif // HDELIBC_NETWORKING_HPP
